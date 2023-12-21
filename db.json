@@ -1,0 +1,21 @@
+{
+  "todos": [
+    {
+      "id": 327,
+      "text": "Grocery shopping",
+      "checked": true
+    },
+    {
+      "id": 421,
+      "text": "Doctor visit"
+    },
+    {
+      "id": 501,
+      "text": "Tuition work"
+    },
+    {
+      "id": 905,
+      "text": "Fee payment"
+    }
+  ]
+}
